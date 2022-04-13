@@ -41,3 +41,4 @@
 ## 💻 Blog
 
 벨로그: https://velog.io/@ckm960411
+노션: https://worried-lobster-973.notion.site/a714375f3537413f86a4f1681027ef60
