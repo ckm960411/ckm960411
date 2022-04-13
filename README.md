@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckm960411&layout=compact&theme=radicul)](https://github.com/metleeha)
 
-## 🛠 Languages
+## 🛠 Stacks
 
 ### FrontEnd
 
@@ -17,6 +17,7 @@
 <div style="display: flex; gap: 8px; margin-bottom: 8px;">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
   <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/emotion-DB7093?style=for-the-badge&logo=Emotion&logoColor=white">
 </div>
 <div style="display: flex; gap: 8px; margin-bottom: 8px;">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
