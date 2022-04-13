@@ -38,6 +38,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
 </div>
 
-### Blog
+## 💻 Blog
 
 벨로그: https://velog.io/@ckm960411
